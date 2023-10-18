@@ -1,6 +1,6 @@
 # Petshop-Academia-Java-UFN
 
-Projeto para um Petshop 
+Estudo de caso projeto para o Petshop Amigo Fiel
 
 ## Visão Geral
 
