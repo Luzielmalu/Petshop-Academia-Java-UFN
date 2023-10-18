@@ -4,7 +4,7 @@ Projeto para um Petshop
 
 ## Visão Geral
 
-Esse projeto para um Petshop, é uma aplicação que simplifica o gerenciamento de um petshop, permitindo aos proprietários e funcionários agendar consultas com facilidade, manter registros de clientes e animais de estimação, e muito mais. É uma solução abrangente para petshops que desejam otimizar suas operações. 
+Esse projeto para um Petshop, é uma aplicação simples, mas que pode ser melhorada. O projeto simplifica o gerenciamento de um petshop, permitindo aos proprietários e funcionários agendar consultas com facilidade, manter registros de clientes e animais de estimação, e muito mais. É uma solução abrangente para petshops que desejam otimizar suas operações. 
 
 ## Recursos Principais
 
